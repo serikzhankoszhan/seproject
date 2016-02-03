@@ -1,0 +1,15 @@
+Actors(users):
+	students
+	teachers
+Use cases:
+	students:
+		register/login requires (SDU id)
+		chatting
+		creating groups
+		sharing information
+		feed
+		courses
+		timetable
+	teachers:
+		one centralized educational repository*(no need to use edmodo, google docs, etc.) 
+		register/login requires (SDU id)
